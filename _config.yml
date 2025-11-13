@@ -10,6 +10,12 @@ author: ""
 email: ""
 telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
 logo: "" # Path to logo image (optional)
+telar_language: "en" # Options: "en" (English), "es" (Español)
+
+# Story Interface Settings
+story_interface:
+  show_story_steps: true # Set to false to hide "Step X" overlay in stories
+  include_demo_content: false # v0.5.0 feature - demo stories from external repository
 
 # Google Sheets Integration (optional)
 # Manage content via Google Sheets instead of editing CSV files directly.
@@ -91,16 +97,8 @@ show_drafts: false
 
 # Telar Settings (version information)
 telar:
-  version: "0.3.3-beta"
-  release_date: "2025-10-28"
-
-# OpenSeadragon Settings
-openseadragon:
-  prefixUrl: "/assets/images/openseadragon/"
-  minZoomLevel: 0
-  maxZoomLevel: 5
-  animationTime: 1.5
-  visibilityRatio: 1.0
+  version: "0.4.2-beta"
+  release_date: "2025-11-13"
 
 # Plugins
 plugins:
@@ -112,3 +110,10 @@ webrick:
     Access-Control-Allow-Origin: "*"
     Access-Control-Allow-Methods: "GET, POST, OPTIONS"
     Access-Control-Allow-Headers: "Content-Type"
+
+# Development & Testing
+# Set to false or remove for production use
+testing-features:
+  # Christmas Tree Mode - Displays all warning messages for testing multilingual support
+  # Set to true to light up the site with test warnings (test objects, fake errors, etc.)
+  christmas_tree_mode: false

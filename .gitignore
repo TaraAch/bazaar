@@ -38,3 +38,8 @@ iiif/objects/
 # Users can create custom.yml for their own theme without tracking it
 _data/themes/custom.yml
 /scripts/__pycache__
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
