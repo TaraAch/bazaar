@@ -8,7 +8,7 @@ baseurl: "/bazaar"
 url: "https://taraach.github.io"
 author: ""
 email: ""
-telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
 logo: "" # Path to logo image (optional)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
