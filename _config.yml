@@ -9,22 +9,21 @@ url: "https://taraach.github.io"
 author: ""
 email: ""
 telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
-logo: "" # Path to logo image (optional)
+logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
 # Story Interface Settings
 story_interface:
   show_story_steps: true # Set to false to hide "Step X" overlay in stories
-  include_demo_content: false # v0.5.0 feature - demo stories from external repository
+  show_object_credits: true # Set to true to display object credits badge (bottom-left corner, dismissable)
+  include_demo_content: false # Fetch demo stories from content.telar.org. Switch this off to hide demo stories and their content.
 
 # Google Sheets Integration (optional)
 # Manage content via Google Sheets instead of editing CSV files directly.
-# See docs/google_sheets_integration/README.md for detailed setup instructions.
+# See https://telar.org/docs/workflows/google-sheets/ for detailed setup instructions.
 #
 # Setup:
-# 1. Get the template:
-#    - Option A: Duplicate our template at https://bit.ly/telar-template
-#    - Option B: Import docs/google_sheets_integration/telar-template.xlsx to Google Sheets yourself
+# 1. Get the template: Duplicate our template at https://bit.ly/telar-template
 # 2. Share your sheet: Anyone with the link (Viewer access)
 # 3. Publish your sheet: File > Share > Publish to web
 # 4. Paste both URLs below
