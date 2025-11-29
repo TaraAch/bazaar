@@ -1,0 +1,6 @@
+step,object,x,y,zoom,question,answer,layer1_button,layer1_file,layer2_button,layer2_file
+#,object_id from the objects tab,horizontal position 0-1 (0.5 = center),vertical position 0-1 (0.5 = center),(1.0 = full image),Heading for this step,Brief 1-2 sentence text,"Optional button text (default: ""Learn more"")",Path to markdown file (e.g. your-story/file.md),"Optional second button text (default: ""Go deeper"")",Path to second markdown file
+1,apnabazaar-1,0.5,0.5,1,Walking towards the main road near Apna Bazaar. ,The urban legend of Lakshmi ,Know more,story-of-lakshmi-1.md,,
+2,bdt-eastlakshmi-1,0.5,0.5,1,"""You don't know about the story of Lakshmi?""",A vendor nearby explains,Click to listen,story-of-lakshmi-2.md,,
+3,bdt-eastlakshmi-2,0.5,0.5,1,The Kotwal i.e. Sultan's Guard,Lakshmi and the surrounding Islamic shrines,Learn More,story-of-lakshmi-3.md,,
+5,bdt-vendor3,0.5,0.5,1,Lakshmi and the Market,As a living embodiment of wealth and Her blessings,Know more,story-of-lakshmi-4.md,,

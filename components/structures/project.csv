@@ -1,5 +1,12 @@
-order,title,subtitle
-1,Example Telar Story,An introduction to digital storytelling
-2,Telar features,See some of the things Telar can do
-3,,
-4,,
+order,story_id,title,subtitle,byline
+#,# Optional semantic ID (e.g. your-story) - tab name must match exactly. Leave empty to use story-{order},Story title,Optional subtitle,Optional attribution (supports markdown)
+1,,A lay of the Land ,The bazaar at a glance,
+2,,Dabaan ni Gaadi: Stories of Eviction,The market as a site that carries memories of displacement from the colonial period to the present.,
+3,,Idol-makers and Time-keepers,"Urban migrants from the neighbouring state who sell statues, figurines, clocks and mirrors.",
+#,,,"# Urban migrants from the neighbouring state of Rajasthan belonging to the Baori tribal community. They are one of the oldest groups of vendors in the area. Once branded ""criminal tribes"" by the colonial state, they prefer to identify as ""Marwaris."" They traditionally sold Plaster of Paris statues and figurines. Today they mostly sell watches, clocks and mirrors from wholesale markets nearby. ",
+4,,The story of Lakshmi,The market as a living embodiment of Lakshmi - the goddess of wealth.,
+#,,,"# The market as a living embodiment of Lakshmi - the goddess of wealth, whose presence in the area is kept alive through a lamp and urban lore that ties the market to the city's medieval past. ",
+5,,Kalim's Kitaabkhana,The market as a literary watering-hole where poets and flaneurs once met.,
+#,,,"# The market as a literary watering-hole where poets and flaneurs once met. The book depot is a hundred-year-old institution run by four generations of Kalimis. The depot is trying to keep alive the memory of a certain cosmopolitanism that is part Ghalib, part Nehruvian. ",
+6,,The Runaways ,The market as a place to recast oneself and build new identities.,
+#,,,"# The market as a place to recast oneself and build new identities. The story of two individuals who ran away to the city and found a home in the market. Today the second and third generations of their families continue to work in the market and identify as bona fide ""Ahmedabadis.""",

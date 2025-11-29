@@ -1,0 +1,12 @@
+step,object,x,y,zoom,question,answer,layer1_button,layer1_file,layer2_button,layer2_file
+#,object_id from the objects tab,horizontal position 0-1 (0.5 = center),vertical position 0-1 (0.5 = center),(1.0 = full image),Heading for this step,Brief 1-2 sentence text,"Optional button text (default: ""Learn more"")",Path to markdown file (e.g. your-story/file.md),"Optional second button text (default: ""Go deeper"")",Path to second markdown file
+1,bdt-east-vern-1,0.5,0.5,1,"Near the Vernacular Society, east of the Bhadra fort",This is where one of the oldest groups of vendors sit in the area sit. ,Learn More ,panel-on-the-baoris.md,,
+2,marwaris,0.5,0.5,1,The market over the years,Ratniben recalls ,Learn More from Ratniben,panel-on-ratniben.md,,
+3,walk-ratniben,0.5,0.5,1,A walk with Ratniben,The market through the eyes of an elderly vendor. ,Join the walk,panel-on-ratniben-walk.md,,
+4,deviben,0.5,0.5,1,"""You have become a leader.""",The Story of Deviben,Know her story,panel-on-deviben.md,,
+5,,,,,,,,,,
+6,,,,,,,,,,
+7,,,,,,,,,,
+8,,,,,,,,,,
+9,,,,,,,,,,
+10,,,,,,,,,,
