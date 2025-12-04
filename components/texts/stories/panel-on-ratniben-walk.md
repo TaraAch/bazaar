@@ -4,12 +4,12 @@ title: "A tour of the Bhadra fort with Ratniben"
 As we enter the fort, Ratniben points to a carving of a hand which is now adorned with vermilion. “This is the hand of Bhadrakali.” People come here and pay their respects. The Bhadra fort was built by Ahmed Shah I, founder of the Gujarat Sultanate and the city and there is no evidence the hand carving at the entrance of the fort or its name was in honor of Bhadrakali, the mother goddess. It is possible that this new meaning was acquired during Maratha rule in the 18th century. Regardless, in present day India, this is how people choose to interact with the structure.
 
 : : : carousel
-image: story2/hand-of-bhadrakali.jpg
+image: story3/hand-of-bhadrakali.jpg
 alt: Carving outside Bhadra fort
 caption: What is popularly believed to be the hand of Bhadra Kali outside Bhadra fort 
 
 ---
-image: story2/jilanipir.jpg
+image: story3/jilanipir.jpg
 alt: Baghdadi shrine
 caption: A Sufi shrine in memory of Jilani Pir Baghdadi, inside the premises of the Bhadra fort 
 
