@@ -1,1 +1,12 @@
+---
+title: "Hansaben's story"
+---
+I have been here for about 50 years- almost my entire life. I got into vending through my father-in-law. He was originally from Jhansi. He had run away from home and ended up here in Ahmedabad. He got into selling dry coconuts. 
 
+I was also a runaway, like my father-in-law. I was orphaned at a young age and once I became a teenager, my aunts and uncles didn't take much interest in me. They found me to be a hassle especially because I was getting older and they needed find me someone to marry. I was mostly on my own growing up. I decided to run away and ended up right here. I ate whatever I could get hold of and slept in a corner near the Bhadra fort. I don't remember how old I was, probably about 10-13 years of age. 
+
+There was a "Mohammedan" (Muslim) by the name of Dawood-chacha (chacha means uncle in Hindi), he employed me at his stall where we mostly sold bangles. I can never forget his generosity. At that time, bangles sold for 30-40 paise (Rupees 0.3-0.4 ). He would give me a small cut of the profit but also fed me from his own pocket. After he died, I went my own way. Soon after I got married - it was a "love marriage" and we were from different communities. My husband and my father-in-law introduced me to the business. I used to sell flowers and dry coconut outside the Bhadrakali temple. We'd go every morning to Jamalpur- the nearby wholesale market for flowers and fresh produce. 
+
+My husband and I had five children. Now they are all grown-up, they sell here as well. My husband passed away soon after we had children. I raised them on my own. Without anyone's help. *Aavi reete main mari nani duniya vasai didhi* - In this way, I built my own little world here."
+
+As life goes on, things evolve. Earlier there was a small road going through the fort and most of us would sell our things inside the Bhadra fort. As the surrounding area grew, the temples and structures around it developed. With it, so did the market. Now you get all kinds of things here. So with time people arrived from different places to shop and to sell. They would sometimes visit the Bhadrakali temple to get blessings. As more people started frequenting the place, the temple authorities decided to redevelop and expand the temple. The temple grew because of the bazaar. Everything is about money. It is a *chakravyuh* (roughly translates to a laberinthine trap). As things grow life becomes more complicated. 
